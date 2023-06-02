@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\bin\Debug\net7.0\Alphabet.exe
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\bin\Debug\net7.0\Alphabet.deps.json
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\bin\Debug\net7.0\Alphabet.runtimeconfig.json
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\bin\Debug\net7.0\Alphabet.dll
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\bin\Debug\net7.0\Alphabet.pdb
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\Alphabet.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\Alphabet.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\Alphabet.AssemblyInfo.cs
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\Alphabet.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\Alphabet.dll
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\refint\Alphabet.dll
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\Alphabet.pdb
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\Alphabet.genruntimeconfig.cache
+C:\WildSchoul_Formation\S02\Quete\Caracteres\Alphabet\obj\Debug\net7.0\ref\Alphabet.dll
